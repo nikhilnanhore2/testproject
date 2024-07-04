@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-04T17:24:28 IST" name="Default suite" finished-at="2024-07-04T17:24:28 IST" duration-ms="134">
+    <groups>
+    </groups>
+    <test started-at="2024-07-04T17:24:28 IST" name="Default test" finished-at="2024-07-04T17:24:28 IST" duration-ms="134">
+      <class name="p1.nikTest">
+        <test-method signature="tes1()[pri:0, instance:p1.nikTest@429bffaa]" started-at="2024-07-04T17:24:28 IST" name="tes1" finished-at="2024-07-04T17:24:28 IST" duration-ms="33" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tes1 -->
+        <test-method signature="tes2()[pri:0, instance:p1.nikTest@429bffaa]" started-at="2024-07-04T17:24:28 IST" name="tes2" finished-at="2024-07-04T17:24:28 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tes2 -->
+      </class> <!-- p1.nikTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
